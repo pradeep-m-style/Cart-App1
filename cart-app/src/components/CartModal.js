@@ -5,7 +5,7 @@ function CartModal({
   closeModal,
   removeFromCart,
   increaseQty,
-  decreaseQty,
+  decreaseQty
 }) {
   
   useEffect(() => {
